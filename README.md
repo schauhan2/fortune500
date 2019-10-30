@@ -3,3 +3,6 @@ Analyses of top US companies using [shinydashboard](https://github.com/rstudio/s
 
 Initially map data based on [RStudio leaflet package](https://github.com/rstudio/leaflet) and  
    [rcstatebin](https://github.com/ramnathv/rcstatebin) packages
+   
+   
+Sanidhya Singh (https://github.com/ssingh13-rms)
